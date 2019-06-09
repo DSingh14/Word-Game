@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+}
+header{
+    border: 3px solid orange;
+    font-size: 20px;
+    font-style: oblique;
+    text-align: center;
+    margin: 15px auto;
+    height: 300px;
+    width : 70%;
+    margin-top:  20px;
+}
+.separatedWords{
+    border: 3px solid orange;
+    font-size: 20px;
+    text-align: center;
+    margin: 15px auto;
+    height: 300px;
+    width : 70%;
+}
+.rightGuess{
+    border: 3px solid orange;
+    font-size: 20px;
+    text-align: center;
+    margin: 15px auto;
+    height: 300px;
+    width : 70%;
+}
+.wrongGuess{
+    border: 3px solid orange;
+    font-size: 20px;
+    text-align: center;
+    margin: 15px auto;
+    height: 300px;
+    width : 70%;
+}
